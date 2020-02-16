@@ -14,5 +14,6 @@ Labs of Clouds class at Eurecom
 - A technique for a smart centroid initialization:  k -means++
 - Determining the value of k: a simple and visual approach, called the Elbow method
 - Distributed  k -means with PySpark
+- SGD algorithm
 
 
